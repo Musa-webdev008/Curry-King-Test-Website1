@@ -24,3 +24,7 @@ What I Learned
 Through this project, I developed my skills in HTML, CSS, responsive design, styling and publishing websites using GitHub Pages.
 
 Created as a personal project.
+
+## Website Preview
+
+![Curry King Homepage](homepage.png)
