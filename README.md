@@ -27,4 +27,10 @@ Created as a personal project.
 
 ## Website Preview
 
-![Curry King Homepage](homepage.png..png)
+![Homepage](homepage.png..png)
+
+![Homepage Middle](Homepage%20middle.png..png)
+
+![Homepage Bottom](Homepage%20bottom.png..png)
+
+
