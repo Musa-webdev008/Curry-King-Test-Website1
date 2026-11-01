@@ -27,7 +27,7 @@ Created as a personal project.
 
 ## Website Preview
 
-![Homepage](Homepage%20.png..png)
+![Homepage](Homepage.png..png)
 
 ![Homepage Middle](Homepage%20middle.png..png)
 
